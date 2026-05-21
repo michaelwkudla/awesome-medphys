@@ -74,6 +74,7 @@ project. They generally do one set of things well.
 * [LQL-Equiv](https://github.com/cyrilvoyant/LQ-Equiv) – Documentation (PDF) and standalone Windows executable for linear–quadratic–linear (LQL) radiobiological modeling, including bifractionation, repopulation effects, and tissue parameter libraries.
 * [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
+* [MedCheck](https://github.com/Liohtml/MedCheck) - AI-powered medical imaging analysis toolkit with DICOM support, local ML models, and Vision-LLM integration.
 * [MUSIMAN](https://github.com/marcelinohermida/MUSIMAN) - MUltiple SImulations MANagement. The Monte Carlo code for radiation transport PENELOPE 2014.
 * [OMG Dosimetry](https://github.com/jfcabana/omg_dosimetry) - With OMG Dosimetry, you can easily perform film calibration, film-to-dose conversion, and dose analysis.
 * [openTPS](https://www.opentps.org/) - OpenTPS is an open-source treatment planning system (TPS) for research in radiation therapy and proton therapy. It was developed in Python with a special focus on simplifying contribution to the core functions to let the user develop their own features.
